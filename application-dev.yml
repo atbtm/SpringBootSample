@@ -1,0 +1,5 @@
+server:
+  port: 8080
+bf:
+  size: 2
+  age: 23
